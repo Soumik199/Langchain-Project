@@ -7,3 +7,4 @@ python-dotenv
 langchain-google-genai
 langchain-groq
 ipykernel
+langchain-tavily
