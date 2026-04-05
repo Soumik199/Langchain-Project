@@ -6,3 +6,9 @@ Main compoment of LangGraph : Every Graph is have a starting and ending point
 ----> (See the Fund_Concept.png)
 GRAPH API & FUNCTIONAL API 
 
+React Agent Arch.
+
+    1. Act  2.observe 3. Reason
+
+   ->  Agentic AI : Agent will decides  there is need of a tool call or LLM 
+        can handle by itself .
