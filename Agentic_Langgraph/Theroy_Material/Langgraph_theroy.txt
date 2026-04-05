@@ -1,0 +1,8 @@
+Main compoment of LangGraph : Every Graph is have a starting and ending point 
+-----------------------------
+1. Edges :
+2. Nodes :
+3. State  : Entire Graph is called as State Graph 
+----> (See the Fund_Concept.png)
+GRAPH API & FUNCTIONAL API 
+
